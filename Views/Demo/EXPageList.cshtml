@@ -1,0 +1,43 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@{
+    Layout = null;
+    var onePageOfProducts = ViewBag.OnePageOfProducts as IPagedList<DienMayws.Models.SanPham>;
+        
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EXPageList</title>
+    <link href="~/Content/PagedList.css" rel="stylesheet" 
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <h2>Demo - PagedList</h2>
+    <div> 
+        <div class="row">
+            @foreach (var item in onePageOfProducts)
+            {
+
+                
+
+                 <div class="col-sm-4" style="background-color:lavender;">@item.SanPhamID - @item.Ten</div>
+
+                <div class="col-sm-8" style="style="background-color:lavenderblush;"> @item.Hinh</div>
+
+            }
+            <h3>Minimal Paging Control</h3>
+            @Html.PagedListPager(onePageOfProducts, page => Url.Action("EXPageList", new { page = page }))
+
+
+            @*https://github.com/TroyGoode/PagedList*@
+
+        </div>
+    </div>
+</body>
+</html>

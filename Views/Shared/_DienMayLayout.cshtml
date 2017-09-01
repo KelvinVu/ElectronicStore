@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- bootstrap -->
+    <link href="~/css/bootstrap.css" rel='stylesheet' type='text/css' media="all" />
+    <!-- //bootstrap -->
+    <!-- Custom Theme files -->
+    <link href="~/css/style.css" rel='stylesheet' type='text/css' media="all" />
+    <script src="~/js/jquery-1.8.3.min.js"></script>
+    <script src="~/js/modernizr.custom.js"></script>
+    <!--start-smoth-scrolling-->
+    <!--webfonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Niconne' rel='stylesheet' type='text/css'>
+    <!--webfonts-->
+    <link href="~/css/component.css" rel="stylesheet" type="text/css" />
+    <script src="~/js/move-top.js" type="text/javascript"></script>
+    <script src="~/js/easing.js" type="text/javascript"></script>
+    <script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+    </script>
+    <!-- start-smoth-scrolling -->
+
+    @RenderSection("styles", false)
+</head>
+<body class="cbp-spmenu-push">
+    <!--start-header-->
+    <div class="header-section">
+        <div class="container">
+            <div class="header-top">
+                <div class="top-nav">
+                    <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s2">
+                        <h3>Menu</h3>
+                        <ul>
+                            <li><a href="/Home">Trang chủ</a></li>
+                            <li class="menu">
+                                Loại sản phẩm
+                                <ul class="cl-effect-1">
+                                    <li><a href="menu.html">Apple</a></li>
+                                    <li><a href="menu.html">Linh kiện</a></li>
+                                    <li><a href="menu.html">Laptop</a></li>
+                                    <li><a href="menu.html">Khác</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/san-pham/">Sản phẩm</a></li>
+                            <li><a href="gallery.html">Tin tức</a></li>
+                            <li><a href="/lien-he/">Liên hệ</a></li>
+                        </ul>
+
+                        <!-- script-for-menu -->
+                        <script>
+                            $("li.menu").click(function () {
+                                $("ul.cl-effect-1").slideToggle(300, function () {
+                                    // Animation complete.
+                                });
+                            });
+                        </script>
+                    </nav>
+                    <div class="main buttonset">
+                        <!-- Class "cbp-spmenu-open" gets applied to menu and "cbp-spmenu-push-toleft" or "cbp-spmenu-push-toright" to the body -->
+                        <button id="showRightPush"><img src="~/images/menu.png" alt="" /></button>
+
+                    </div>
+
+                    <script src="~/js/classie.js"></script>
+                    <script>
+                        var menuRight = document.getElementById('cbp-spmenu-s2'),
+						showRightPush = document.getElementById('showRightPush'),
+						body = document.body;
+
+                        showRightPush.onclick = function () {
+                            classie.toggle(this, 'active');
+                            classie.toggle(body, 'cbp-spmenu-push-toleft');
+                            classie.toggle(menuRight, 'cbp-spmenu-open');
+                            disableOther('showRightPush');
+                        };
+
+                        function disableOther(button) {
+                            if (button !== 'showRightPush') {
+                                classie.toggle(showRightPush, 'disabled');
+                            }
+                        }
+                    </script>
+                </div>
+                <div class="header-logo">
+                    <a href="/Home"><img src="~/images/logo.png" alt="" /></a>
+                </div>
+                <!--/start login-menu-->
+                <ul style="list-style:none;">
+                    <li class="" style="display:inline-block;margin-right:10px">
+                        <a href="/GioHang" style="position:relative">
+                            Giỏ hàng
+                            <span style="position: absolute;
+    top: -14px;
+    color: #Fff;
+    background: red;
+    padding: 0 5px;right:0" id="pInTop">
+                                0
+                            </span>
+                        </a>
+                    </li>
+                    <li class="" style="display:inline-block;margin-right:10px">
+                        <a href="/account/dangnhap">
+                            Đăng nhập
+                        </a>
+                    </li>
+                    <li class="" style="display:inline-block;margin-right:10px">
+                        <a href="/account/dangky">
+                            Đăng ký
+                        </a>
+                    </li>
+                </ul>
+                <!--//end login-menu-->
+
+                <div class="search-form">
+                    @*<form>
+                        <input type="text" value="Tìm kiếm..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search...';}" required="">
+                    </form>*@
+                    @Html.Partial("_SearchPartial")
+                </div>
+
+                <div class="clearfix"> </div>
+                <!--/start-sản phẩm mới-->
+                <div class="header-grids">
+                    <!--Cho phép view chèn nội dung nếu có-->
+                    @RenderSection("headerGrids", false)
+                </div>
+                <!--//end-sản phẩm mới-->
+            </div>
+        </div>
+    </div>
+    <!--//End-header-->
+
+    <!--start main of each views-->
+    @RenderBody()
+    <!--//end main of each views-->
+
+    <!--Tích hợp Partial view vào footer-->
+    @Html.Partial("_FooterPartial")
+
+    @RenderSection("scripts", false)
+</body>
+</html>

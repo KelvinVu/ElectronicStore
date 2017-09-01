@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Upload";
+}
+<h2>Upload hình</h2>
+<h3>Tên sản phẩm: @ViewBag.TenSanPham</h3>
+
+@using (Html.BeginForm("Upload", "AdminSanPham", FormMethod.Post, htmlAttributes: new { enctype = "multipart/form-data" }))
+{
+    <div>
+        Chọn hình:
+        <input type="hidden" name="id" value="@Model" />
+        <input type="file" name="fileHinh" />
+        <input type="submit" value="Upload" />
+    </div>
+}
+
+
+

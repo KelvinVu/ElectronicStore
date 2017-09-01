@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+}
+
+<!--/start-Welcome-->
+<div id="Welcome">
+    <div class="container">
+        <div class="wecome-main">
+            <div class=" col-md-6 wecome-text">
+                <h1>Xin Chào</h1>
+                <span>
+                    Vui lòng đón tiếp quý khách
+                </span>
+                <p>
+                    Cửa hàng chúng tôi chuyên cung cấp các mặt hàng điện tử cho gia đình và doanh nghiệp
+                </p>
+                <div class="wecome-button">
+                    <a class="button rotate2" href="#">Xem chi tiết<span> </span></a>
+                </div>
+            </div>
+            <div class="col-md-6 wecome-img">
+                <img src="~/images/wel-img.jpg" alt="">
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!-- //End-welcome-->
+<!--Tích hợp Partial view-->
+
+
+@Html.Action("_SanPhamNoiBatPartial", "SanPham");
+
+@Html.Partial("_FooterSliderPartial")
+
+
+<!--Tích hợp Partial view (dữ liệu động)-->
+@section headerGrids{
+    @*dsa
+    @Html.Action("_MayGiatMoiPartial","SanPham")*@
+
+
+    @Html.Action("_SanPhamMoiPartial", "SanPham", new { id =13})
+
+}

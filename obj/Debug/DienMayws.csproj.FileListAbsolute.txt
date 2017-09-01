@@ -1,0 +1,525 @@
+D:\QLDienMay\DienMayws\bin\DienMayws.dll.config
+D:\QLDienMay\DienMayws\bin\DienMayws.dll
+D:\QLDienMay\DienMayws\bin\DienMayws.pdb
+D:\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+D:\QLDienMay\DienMayws\bin\EntityFramework.dll
+D:\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+D:\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+D:\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+D:\QLDienMay\DienMayws\bin\Owin.dll
+D:\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+D:\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+D:\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+D:\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+D:\QLDienMay\DienMayws\bin\WebGrease.dll
+D:\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+D:\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+D:\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+D:\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+D:\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+D:\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+D:\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+D:\QLDienMay\DienMayws\bin\EntityFramework.xml
+D:\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+D:\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+D:\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+D:\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\hv\Desktop\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\KhiCon\Desktop\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\KhiCon\Desktop\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\hv\Desktop\nghien cuu\nghien cuu\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll.config
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.pdb
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Owin.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\WebGrease.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+C:\Users\DELL\Desktop\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll.config
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\DienMayws.pdb
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Web.Infrastructure.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Owin.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\WebGrease.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\PagedList.Mvc.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Helpers.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Mvc.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Optimization.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.Razor.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Deployment.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\System.Web.WebPages.Razor.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Antlr3.Runtime.pdb
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Newtonsoft.Json.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\EntityFramework.SqlServer.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Core.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Facebook.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Cookies.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.OAuth.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Google.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.Twitter.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.csprojResolveAssemblyReference.cache
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.csproj.CoreCompileInputs.cache
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.dll
+D:\t3h1\QLDienMayFull\QLDienMay\DienMayws\obj\Debug\DienMayws.pdb

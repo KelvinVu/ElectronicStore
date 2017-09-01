@@ -1,0 +1,45 @@
+﻿@model DienMayws.Models.Loai
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2 class="page-header text-info">Loại sản phẩm <small>Xóa thông tin</small></h2>
+
+<h3>Bạn có thật sự muốn hủy không?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BiDanh)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChungLoai.Ten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChungLoai.Ten)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-actions no-color">
+            <input type="submit" value="Xác nhận xóa" class="btn btn-danger" /> | @Html.ActionLink("Trở về danh sách", "Index")
+        </div>
+    }
+</div>

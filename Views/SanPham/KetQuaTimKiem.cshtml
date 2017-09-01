@@ -1,0 +1,27 @@
+﻿@model List<DienMayws.Models.SanPham>
+@{
+    ViewBag.Title = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+}
+
+<h2 class="page-header text-info">Kết quả tìm kiếm <small>Xem danh sách</small></h2>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover" style="min-width:500px">
+        <tr class="alert-info">
+            <th>ID</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá bán</th>
+            <th>Trạng thái </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SanPhamID</td>
+                <td>@item.Ten</td>
+                <td>@item.GiaBan</td>
+                <td>@item.TrangThai</td>
+            </tr>
+        }
+    </table>
+
+</div>

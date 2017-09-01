@@ -1,0 +1,36 @@
+﻿@{
+    var dsChungLoai = ViewBag.ChungLoais as List<DienMayws.Models.ChungLoai>;
+    int stt = 0;
+}
+<ul class="topic_grid">
+    <li class="list1"><h3 class="m_3"><span>Loại sản phẩm</span></h3><div class="clear5"></div></li>
+</ul>
+<div class="menu_vertical">
+    <section class="accordation_menu">
+        @foreach (var chungLoaiItem in dsChungLoai)
+        {
+            stt++;
+            string idCL = string.Format("label-{0}", stt);
+            <div>
+                <input id="@idCL" name="lida" type="radio" checked />
+                <label for="@idCL" id="item1"><i class="ferme"> </i>
+                <span class="m_5">@chungLoaiItem.Ten</span>
+                <i class="icon-plus-sign i-right1"></i>
+                <i class="icon-minus-sign i-right2"></i></label>
+                <div class="content" id="a1">
+                    <ul class="news_list">
+                        @foreach (var loaiItem in chungLoaiItem.Loais)
+                        {
+                            <li class="date_desc">
+                                @Html.ActionLink(loaiItem.Ten, "DanhSach", "SanPham", new { id = loaiItem.LoaiID }, htmlAttributes: new { target = "_blank", title = loaiItem.Ten })
+                            </li>
+                        }
+                    </ul>
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+        }
+
+
+    </section>
+</div>

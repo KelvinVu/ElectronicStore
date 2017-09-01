@@ -1,0 +1,67 @@
+﻿@using DienMayws.ViewModels
+@model DienMayws.ViewModels.GioHangModel
+@{
+    ViewBag.Title = "Giỏ hàng";
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+}
+<div class="container-fluid">
+
+    <h2 class="header-section">Giỏ hàng của bạn</h2>
+    @if (Model != null)
+    {
+        int stt = 0;
+        <table class="table table-bordered">
+            <thead>
+                <tr class="bg-info">
+                    <td>Stt</td>
+                    <td>Tên sản phẩm</td>
+                    <td>Số lượng</td>
+                    <td>Đơn giá</td>
+                    <td>Thành tiền</td>
+                    <td>Xóa</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (GioHangItem item in Model.Items)
+                {
+                    stt++;
+                <tr>
+                    <td>@stt</td>
+                    <td>@item.SanPham.Ten</td>
+                    <td>
+                        @using (Html.BeginForm("HieuChinh", "GioHang", FormMethod.Post))
+                            {
+                            @Html.TextBox("soLuong", item.SoLuong)
+                            @Html.Hidden("sanPhamID", item.SanPham.SanPhamID)
+                            <input type="image" src="~/Images/save.png" title="Cập nhập số lượng" />
+                            }
+                    </td>
+                    <td>@item.SanPham.GiaBan.ToString("#,##0VNĐ")</td>
+                    <td> @((item.SanPham.GiaBan * item.SoLuong).ToString("#,##0VNĐ"))</td>
+                    <td>
+                        @using (Html.BeginForm("Xoa", "GioHang", FormMethod.Post))
+                            {
+                            @Html.Hidden("sanPhamID", item.SanPham.SanPhamID)
+                            <input type="image" src="~/Images/Delete2.png" title="Xóa thông tin" /> }
+                    </td>
+                </tr>
+                }
+            </tbody>
+
+        </table>
+
+        <div>
+            Tổng số mặt hàng: @Model.TongSanPham()<br />
+            Tổng số lượng: @Model.TongSoLuong()<br />
+            Tổng trị giá: @Model.TongTriGia().ToString("#,##0VND")
+        </div>
+        <div>
+            <a href="@Url.Action("DatMua")">
+                Đặt mua
+                <img src="~/Images/Checkout.png" style="height:28px;width:32px;vertical-align:bottom;" />
+            </a>
+
+        </div>
+
+    }
+</div>

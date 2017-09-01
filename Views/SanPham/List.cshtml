@@ -1,0 +1,83 @@
+﻿@model PagedList.IPagedList<SanPham>
+@{
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+}
+
+
+<div class="services">
+
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm-9">
+                <h3>@ViewBag.TieuDe</h3>
+
+                @if (Model != null)
+                {
+                    <div class="featured-main events-featured-main">
+                        @foreach (var item in Model)
+                        {
+                            <div class=" col-md-3 feature-text">
+                                <a href="@Url.Action("ChiTiet", "SanPham", new { item.SanPhamID })" target="_blank">
+                                    <img height="158" src="~/photos/@item.Hinh" alt="@item.Ten">
+                                </a>
+                                <div class="feature-text-grids">
+                                    <div class="feature-text-left">
+                                        <span class="glyphicon glyphicon-tags"></span>
+                                    </div>
+                                    <div class="feature-text-right">
+                                        <h3>@item.Ten</h3>
+                                        @if (item.MoTa != null && item.MoTa.Length > 20)
+                                        {
+
+                                            <p>@item.MoTa.Substring(0, 20)</p>
+                                        }
+                                        else
+                                        {
+                                            <p>@item.MoTa</p>
+
+                                        }
+
+                                        <div>
+                                        Giá bán: @item.GiaBan.ToString("#,##0 VNĐ");
+                                        @Html.Partial("_ChonMuaPartial", item.SanPhamID)
+
+                                    </div>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <div class="clearfix"> </div>
+                    @Html.PagedListPager(Model, page => Url.Action("DanhSach", new { id = ViewBag.LoaiID, page = page }))
+                }
+
+
+            </div>
+            <div class="col-md-3">
+
+                @Html.Action("_ChungLoaiPartial", "ChungLoai")
+            </div>
+        </div>
+     </div>
+</div>
+
+
+
+@section styles{
+
+
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+}
+
+
+@section headerGrids{
+    @*dsa
+        @Html.Action("_MayGiatMoiPartial","SanPham")*@
+
+
+    @Html.Action("_SanPhamMoiPartial", "SanPham", new { id = 10 })
+
+}

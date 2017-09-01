@@ -1,0 +1,23 @@
+﻿@model List<DienMayws.Models.Loai>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TestModel</title>
+</head>
+<body>
+    <div>
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>@item.Ten</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

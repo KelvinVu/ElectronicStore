@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "DanhSach2";
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+    WebGrid grid = new WebGrid(Model, rowsPerPage: 12);
+    string path = Url.Content("~/Photos/");
+}
+<div class="container-fluid">
+    <div class="services">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="container-fluid">
+                    @Html.Action("_ChungLoaiPartial", "ChungLoai")
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h2>@ViewBag.TieuDe</h2>
+                @if (Model != null)
+                {
+                    @grid.GetHtml(tableStyle: "dshinh",
+    columns: grid.Columns(
+        grid.Column(
+        format: item => Html.Raw(
+                string.Format("<a href='{2}'><img src='{0}{1}' />{3}</a><div>Gia ban: {4}{5}</div>",
+                path, //0
+                item.Hinh, //1
+                Url.Action("ChiTiet", "SanPham", new { id = item.SanPhamID }), //2
+                item.Ten,//3
+                item.GiaBan, //4
+                     Html.Partial("_ChonMuaPartial", (int)item.SanPhamID)
+                )
+                ))))
+                }
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+    @section styles{
+        <link href="~/Content/wgStyle.css" rel="stylesheet" />
+    }

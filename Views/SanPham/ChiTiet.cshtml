@@ -1,0 +1,35 @@
+﻿@model DienMayws.Models.SanPham
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/_DienMayLayout.cshtml";
+}
+
+<h2>ChiTiet</h2>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-9">
+            <h4>@Model.Ten</h4>
+            <div>Sản phẩm ID: @Model.SanPhamID</div>
+        <div>Loại: @Model.Loai.Ten</div>
+        <div>Nhà sản xuất: @Model.NhaSanXuat.Ten</div>
+
+
+        <img src="~/photos/@Model.Hinh" style="width:250px;height:250px" />
+
+            <div>
+                Giá bán: @Model.GiaBan.ToString("#,##0 VNĐ");
+                @Html.Partial("_ChonMuaSLPartial", Model.SanPhamID)
+
+            </div>
+       </div>
+
+        <div class="col-md-3">
+            @Html.Action("_ChungLoaiPartial", "ChungLoai");
+
+
+
+        </div>
+
+
+</div>
+</div>

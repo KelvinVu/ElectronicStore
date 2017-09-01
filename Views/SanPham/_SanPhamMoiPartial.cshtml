@@ -1,0 +1,29 @@
+﻿@model List<DienMayws.Models.SanPham>
+
+
+@foreach (var item in Model)
+{
+    <div class="col-md-4 header-grid-info">
+        <a href="#">
+            <div class="header-grid gray">
+                <div class="header-grid-img gray-grid">
+                    <img height="258" src="~/photos/@item.Hinh" alt="@item.BiDanh">
+                    <h3 style="height:30px; overflow:hidden">@item.Ten</h3>
+                    <p>
+                        @item.MoTa
+                    </p>
+
+                    <div>
+                        Giá bán: @item.GiaBan.ToString("#,##0 VNĐ");
+                        @Html.Partial("_ChonMuaPartial", item.SanPhamID)
+
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+}
+
+
+<div class="clearfix"> </div>
+<p></p>

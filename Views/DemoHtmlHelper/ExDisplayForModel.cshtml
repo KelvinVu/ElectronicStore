@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ExDisplayForModel</title>
+    <style type="text/css">
+        .container {width:600px; margin:50px auto; border:3px double red; display:table; }
+        .display-label 
+        {
+            float:left; width:25%;
+            margin-right:3px;
+            font-size:0.875em; font-weight:bold; text-align:right; 
+
+        }
+        .display-field {float:right; width:70%; font-size:0.875em;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3>Hóa đơn</h3><hr />
+        @Html.DisplayForModel()
+    </div>
+</body>
+</html>

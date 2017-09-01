@@ -1,0 +1,31 @@
+﻿@model DienMayws.Models.HoaDon
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ExDisplay</title>
+</head>
+<body>
+    <div> 
+        <b>@Html.DisplayNameFor(m => m.NgayDatHang)</b>
+        @Html.DisplayFor(m=>m.NgayDatHang)
+        <i>@Html.DisplayTextFor(m=>m.NgayDatHang)</i>
+    </div>
+
+    <div>
+        <b>@Html.DisplayNameFor(m => m.TongTien)</b>
+        @Html.DisplayFor(m => m.TongTien)
+        <i>@Html.DisplayTextFor(m => m.TongTien)</i>
+    </div>
+
+    <div>
+        @Html.DisplayName("HoTenKhach") 
+        @Html.Display("HoTenKhach")
+    </div>
+</body>
+</html>

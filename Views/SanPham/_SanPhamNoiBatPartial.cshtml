@@ -1,0 +1,60 @@
+﻿@model List<SanPham>
+
+
+<!--/start-featured-->
+<div class="featured-section">
+    <div class="container">
+        <h2>Sản phẩm nổi bật</h2>
+        <div class="featured-main">
+            @foreach (var item in Model)
+            {
+                <div class=" col-md-3 feature-text">
+
+                  @*  nên dùng cách cách này khi đường dẫnn dynamic ở mọi thời điểm*@
+                    <a href="@Url.Action("ChiTiet", "SanPham", new { id= item.SanPhamID})">
+
+                          <img src="~/photos/@item.Hinh"   atl="@item.BiDanh" title="@item.Ten" />
+
+                    </a>
+
+                   @*Dùng khi đường dẫn fix, nếu người ta sale web và route lại thì đường dẫn này sẽ bị sai
+                       a href="/SanPham/ChiTiet/1">
+                        <img src="~/photos/ChiTiet/@item.SanPhamID" alt="San pham noi bat">
+                    </a>*@
+                    <div class="feature-text-grids">
+
+                        <div class="feature-text-right">
+                            <h3>
+                                @*@Html.ActionLink(item.Ten, "ChiTiet", "SanPham", new  {id=item.SanPhamID },null)*@
+                                
+                                @* Do trong trang home khi goi nên sẽ khác controller *@
+
+                                @Html.ActionLink(item.Ten, "ChiTiet", "SanPham",
+                                new { id = item.SanPhamID }, htmlAttributes: new  { @target="_blank"})
+                              
+                            </h3>
+                            <p>@item.MoTa</p>
+
+                            <div>
+                                Giá bán: @item.GiaBan.ToString("#,##0 VNĐ");
+                                @Html.Partial("_ChonMuaPartial", item.SanPhamID)
+
+                            </div>
+                        </div>
+                        <div class="clearfix"> </div>
+                    </div>
+                </div>
+
+            }
+
+            
+            
+            <div class=" col-md-3 feature-accord">
+                   @Html.Action("_ChungLoaiPartial", "ChungLoai");
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+
+    </div>
+</div>
+<!-- //End-featured-->

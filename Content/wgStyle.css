@@ -1,0 +1,61 @@
+﻿
+.dshinh{
+    border-collapse: collapse;
+    width:100%;
+    font-size:0.875em;
+    padding:0px;
+    background-color:white;
+}
+dshinh *{
+    margin:0px;padding:0px;
+}
+   
+
+    .dshinh tbody tr,.dshinh tbody td{
+        float:left;
+        width:205.2px;
+        height:245px;
+       
+    }
+    
+.dshinh td{vertical-align: top;text-align: center; color: #8c0209;}
+.dshinh tbody td a
+{
+    display:block;
+    margin-top:5px;
+}
+.dshinh tbody td a:hover{
+    font-weight: bold;
+}
+.dshinh tbody td a>img{
+    margin:0px;
+    width:99.8%;
+    height:165px;
+}
+.dshinh input[type="image"]{
+    width: 25px; height:20px;
+}
+#addCart
+{
+     width:25px; height:20px;
+}
+.dshinh tbody td a[rel="example_group"]
+{
+    height:165px;
+}
+.dshinh tbody td div
+{
+    text-align:right;padding:3px;
+}
+.h200
+{
+     height:200px;
+}
+
+.dshinh tfoot tr, .dshinh tfoot td
+{
+    display:block;
+  width:99.8%;
+   
+}
+

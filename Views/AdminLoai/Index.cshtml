@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DienMayws.Models.Loai>
+
+@{
+    ViewBag.Title = "Admin Loại - Index";
+}
+
+<h2 class="page-header text-info">Loại sản phẩm <small>Xem danh sách</small></h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "Create")
+</p>
+<table class="table table-bordered table-hover">
+    <tr class="alert-info">
+        <th>
+            @Html.DisplayNameFor(model => model.Ten)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChungLoai.Ten)
+        </th>
+        <th>Chức năng</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ten)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BiDanh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChungLoai.Ten)
+        </td>
+        <td>
+            @Html.ActionLink("Hiệu chỉnh", "Edit", new { id=item.LoaiID }) |
+            @Html.ActionLink("Xem chi tiết", "Details", new { id=item.LoaiID }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.LoaiID })
+        </td>
+    </tr>
+}
+
+</table>
